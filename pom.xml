@@ -14,9 +14,9 @@
 
   <name>Spring Based Integration Test Fixture</name>
   <description>
-		A Spring based integration testing framework for setting up, tearing down and testing data in a variety of
-		databases (JDBC and MongoDB are directly supported).
-	</description>
+    A Spring based integration testing framework for setting up,tearing down and testing data in a variety of
+    databases(JDBC and MongoDB are directly supported).
+  </description>
   <url>https://github.com/rocketlawyer/zankou</url>
   <inceptionYear>2014</inceptionYear>
 
@@ -40,7 +40,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>15.0</version>
+      <version>17.0</version>
     </dependency>
 
     <dependency>
