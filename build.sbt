@@ -3,6 +3,8 @@ name := "zankou"
 
 organization := "com.rocketlawyer.common"
 
+rlRepo(Github,"zankou")
+
 libraryDependencies ++= Seq(
   slf4jApi,
   guava,
