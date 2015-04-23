@@ -1,7 +1,5 @@
-target/
-*.jpage
-.classpath
-.project
-.settings/
-.springBeans
+.DS_Store
+target
+.ensime*
+*~
 
